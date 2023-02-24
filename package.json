@@ -1,0 +1,12 @@
+{
+  "name": "recover-tokens",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "tomarsachin2271 <sachin.tomar@biconomy.io>",
+  "license": "MIT",
+  "dependencies": {
+    "@flashbots/ethers-provider-bundle": "^0.6.1",
+    "bignumber.js": "^9.1.1",
+    "ethers": "5.6.4"
+  }
+}
